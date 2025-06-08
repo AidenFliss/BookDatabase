@@ -1,2 +1,3 @@
 # BookDatabase
-Book database for my first android app.
+
+This repo for automatic updated for my first android app.
