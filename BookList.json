@@ -518,7 +518,7 @@
 	{
 		"isbn": "",
 		"title": "A Man Called Ove",
-		"author": "Frederik Backman",
+		"author": "Fredrik Backman",
 		"genre": ""
 	},
 	{
@@ -1257,13 +1257,13 @@
 	{
 		"isbn": "",
 		"title": "Beartown",
-		"author": "Frederik Backman",
+		"author": "Fredrik Backman",
 		"genre": ""
 	},
 	{
 		"isbn": "",
 		"title": "Anxious People",
-		"author": "Frederik Backman",
+		"author": "Fredrik Backman",
 		"genre": ""
 	},
 	{
@@ -1384,6 +1384,282 @@
 		"isbn": "",
 		"title": "The Other Daughter",
 		"author": "Lisa Gardner",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "Listen For The Lie",
+		"author": "Amy Tintera",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "The Quarry Girls",
+		"author": "Jess Lourey",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "Her Perfect Family",
+		"author": "Teresa Driscoll",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "Story Of My Life",
+		"author": "Lucy Score",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "Don't Believe It",
+		"author": "Charlie Donlea",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "Perfect Match",
+		"author": "Jodi Picoult",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "Our Stolen Child",
+		"author": "Melissa Wiesner",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "The Other Mothers",
+		"author": "Katherine Faulken",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "Nora Goes Off Script",
+		"author": "Annabele Monaghan",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "The Boyfriend",
+		"author": "Freida McFadden",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "The Weight Of Air",
+		"author": "David Poses",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "Westport",
+		"author": "James Comey",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "She's Gone",
+		"author": "David Bell",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "A Family Of Killers",
+		"author": "Bryce Moore",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "Better Than The Movies",
+		"author": "Lynn Painter",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "The Obsession",
+		"author": "Jesse Q. Sutanto",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "The Art Of Racing In The Rain",
+		"author": "Garth Stein",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "The Summer Pact",
+		"author": "Emily Giffin",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "The House In The Pines",
+		"author": "Ana Reyes",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "Us Against You",
+		"author": "Fredrik Backman",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "The Winners",
+		"author": "Fredrik Backman",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "The Perfect Divorce",
+		"author": "Jeneva Rose",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "Friends, Lovers, And The Big Terrible Thing",
+		"author": "Matthew Perry",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "The Grace Year",
+		"author": "Kim Liggett",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "The Keeper Of Happy Endings",
+		"author": "Barbara Davis",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "A Love Letter To Whiskey",
+		"author": "Kandi Steiner",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "Love & Other Words",
+		"author": "Christina Lauren",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "The Summer I Turned Pretty",
+		"author": "Jenny Han",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "The Girl Who Survived",
+		"author": "Lisa Jackson",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "Keep Quiet",
+		"author": "Lisa Scottoline",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "The Griffin Sisters' Greatest Hits",
+		"author": "Jennifer Weiner",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "The Missing Half",
+		"author": "Ashley Flowers",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "Long Time Gone",
+		"author": "Charlie Donlea",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "My Friends",
+		"author": "Fredrik Backman",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "The Butterfly Garden",
+		"author": "Dot Hutchison",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "Jar Of Hearts",
+		"author": "Jennifer Hillier",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "The Maid's Diary",
+		"author": "Loreth Anne White",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "They're Watching You",
+		"author": "Chelsea Ichaso",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "The Other Woman",
+		"author": "Sandie Jones",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "None Of This Is True",
+		"author": "Lisa Jewell",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "Tell Me What You Did",
+		"author": "Carter Wilson",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "The Killing Plains",
+		"author": "Sherry Rankin",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "The Lost Bookshop",
+		"author": "Evie Woods",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "What Happened In The Woods",
+		"author": "Phil M. Williams",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "You'd Be Home Now",
+		"author": "Kathleen Glasgow",
+		"genre": ""
+	},
+	{
+		"isbn": "",
+		"title": "How To Make Friends With The Dark",
+		"author": "Kathleen Glasgow",
 		"genre": ""
 	},
 	{
