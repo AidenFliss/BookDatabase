@@ -1,0 +1,25 @@
+name: Book Entry
+description: Use this to submit new book entries via issue instead of PR.
+title: Book Entry Submission
+labels: book-entry
+body:
+  - type: checklist
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: I used valid JSON syntax.
+        - label: I followed the correct book entry format.
+        - label: I only edited my own file and did not change other entries.
+        - label: I checked for typos and formatting issues.
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        ## Books Added
+
+        List each book you added as a bullet point. Use one line per book.
+
+        Example:
+        - Book Name by Author Name
+        - Hello World by Aiden Fliss
