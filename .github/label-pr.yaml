@@ -1,0 +1,16 @@
+name: Label Pull Requests
+
+on:
+  pull_request:
+    types: [opened]
+
+jobs:
+  add-label:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Add label to new PRs
+        uses: actions-ecosystem/action-add-labels@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          labels: |
+            new-books
