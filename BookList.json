@@ -1723,9 +1723,22 @@
 		"genre": ""
 	},
 	{
+	  "isbn": "",
+	  "title": "All The Ugly And Wonderful Things",
+	  "author": "Bryn Greenwood",
+	  "genre": ""
+	},
+	{
+	  "isbn": "",
+	  "title": "Care And Feeding (A Memoir)",
+	  "author": "Laurie Woolever",
+	  "genre": ""
+	},
+	{
 		"isbn": "",
 		"title": "",
 		"author": "",
 		"genre": ""
 	}
 ]
+
