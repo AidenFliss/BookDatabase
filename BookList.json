@@ -1735,10 +1735,23 @@
 	  "genre": ""
 	},
 	{
+	  "isbn": "",
+	  "title": "The Suicide House",
+	  "author": "Charlie Donlea",
+	  "genre": ""
+	},
+	{
+	  "isbn": "",
+	  "title": "One In Four",
+	  "author": "Lucinda Berry",
+	  "genre": ""
+	},
+	{
 		"isbn": "",
 		"title": "",
 		"author": "",
 		"genre": ""
 	}
 ]
+
 
