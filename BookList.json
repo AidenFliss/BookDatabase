@@ -1753,12 +1753,31 @@
 	  "genre": ""
 	},
 	{
+	  "isbn": "",
+	  "title": "A Slow Fire Burning",
+	  "author": "Paula Hawkins",
+	  "genre": ""
+	},
+	{
+	  "isbn": "",
+	  "title": "Hello Beautiful",
+	  "author": "Ann Napolitano",
+	  "genre": ""
+	},
+	{
+	  "isbn": "",
+	  "title": "She Didn't See It Coming",
+	  "author": "Shari Lapena",
+	  "genre": ""
+	},
+	{
 		"isbn": "",
 		"title": "",
 		"author": "",
 		"genre": ""
 	}
 ]
+
 
 
 
