@@ -1783,12 +1783,25 @@
 	  "genre": ""
 	},
 	{
+	  "isbn": "",
+	  "title": "We Were Liars",
+	  "author": "E. Lockhart",
+	  "genre": ""
+	},
+	{
+	  "isbn": "",
+	  "title": "Family of Liars",
+	  "author": "E. Lockhart",
+	  "genre": ""
+	},
+	{
 		"isbn": "",
 		"title": "",
 		"author": "",
 		"genre": ""
 	}
 ]
+
 
 
 
