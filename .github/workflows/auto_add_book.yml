@@ -1,4 +1,9 @@
 name: Auto Add Book + Increment Version
+
+concurrency:
+  group: booklist-update
+  cancel-in-progress: false
+
 on:
   issues:
     types: [opened]
