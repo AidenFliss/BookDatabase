@@ -30,7 +30,7 @@ jobs:
             }
 
             const body = issue.body || "";
-            const match = body.match(/```json([\s\S]*?)```/);
+            const match = body.match(/```json([\s\S]*)/);
             if (!match) {
               console.log("No JSON found in issue.");
               return;
